@@ -1,0 +1,14 @@
+Hello World!
+This is my first text file with the name of 'hello.txt'.
+Hello World!
+This is my first text file with the name of 'hello.txt'.
+There are many open source text editor with powerful features.
+Example:
+* Vim or GVim
+* Emacs
+* Gedit
+* Notepad++
+* Geany(also called IDE)
+* Atom etc.
+
+This file was created on 14th November 2016 1:50:23 AM.
